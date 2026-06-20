@@ -1,0 +1,1 @@
+console.log("he is amazing");
