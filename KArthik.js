@@ -1,2 +1,2 @@
 var = "siri";
-console.log("he is amazing");
+console.log("she is bad");
